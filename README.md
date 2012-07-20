@@ -37,4 +37,8 @@ Files
 	This page has defined settings that will be used by imgmgr.php. 
 -	imgmgr.class.php
 	This is the main class that handles all of the image manipulation. 
+
+LICENSE
+-	There is no warrenty for this web app and if you download/fork/run the files in anyway, you are doing so at your own risk.
+-	You agree to the GPL 3.0 license when using/viewing this web app. The license can be loacted here: http://opensource.org/licenses/gpl-3.0.html
 	
